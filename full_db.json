@@ -1,0 +1,1358 @@
+{
+    "stores": [
+        {
+            "phone_number": "(8) 6741260",
+            "name": "ADRIANA NOVOA",
+            "web_page": "http://www.adriananovoa.co",
+            "image": "https://primaveraurbana.co/wp-content/uploads/2018/11/tienda_adriananovoa.jpg",
+            "local_number": "255",
+            "id": 0,
+            "categories": [
+                17
+            ],
+            "description": "Sus prendas son ideales para este cálido clima ya que llevan telas con fibras naturales como: el lino, sedas, viscosas y algodones 100% entre ellas bordados, estampados, ojarota y ojalillos."
+        },
+        {
+            "phone_number": "(8) 6741098",
+            "name": "ADRISSA",
+            "web_page": "http://www.adrissa.com.co",
+            "image": "https://primaveraurbana.co/wp-content/uploads/2018/10/adrissa.jpg",
+            "local_number": "114",
+            "id": 1,
+            "categories": [
+                17
+            ],
+            "description": "Buscamos diseñar, producir y comercializar prendas de vestuario con identidad propia, exclusidad y alta calidad para hombres y mujeres contemporáneos, junto con una maravillosa asesoría en un ambiente acogedor."
+        },
+        {
+            "phone_number": "(8) 6833816",
+            "name": "AL CARBON",
+            "web_page": "http://www.alcarbonasados.com",
+            "image": "https://primaveraurbana.co/wp-content/uploads/2018/10/alCarbon.jpg",
+            "local_number": "349",
+            "id": 2,
+            "categories": [
+                10
+            ],
+            "description": "Somos un restaurante paisa, especializado en carnes y comida típica. Con más de 6 años en el mercado, nos caracterizamos por tener el mejor sabor."
+        },
+        {
+            "phone_number": "3167583776",
+            "name": "AMAPOLA",
+            "web_page": "https://www.facebook.com/AmapolaVillavicencio",
+            "image": "https://primaveraurbana.co/wp-content/uploads/2018/10/amapola.jpg",
+            "local_number": "Isla 102",
+            "id": 3,
+            "categories": [
+                3
+            ],
+            "description": "Respostería reconocida a lo largo de la ciudad por su trayectoría y alta calidad. Te damos la mejor experiencia en postres y tortas, dándote solamente razones para volver a visitarnos."
+        },
+        {
+            "phone_number": "(8) 6741099",
+            "name": "AMAR AZUL",
+            "web_page": "http://www.amarazul.co",
+            "image": "https://primaveraurbana.co/wp-content/uploads/2018/10/amarazul.jpg",
+            "local_number": "328",
+            "id": 4,
+            "categories": [
+                11
+            ],
+            "description": "Es la Boutique donde empiezan tus vacaciones, allí podrás encontrar: vestidos de baño, salidas de baño, sandalias y accesorios para verano. AMAR AZUL es belleza, equilibrio y armonía, en productos de excelente calidad, variedad y diseño."
+        },
+        {
+            "phone_number": "(8) 6839494",
+            "name": "AMBIENTE GOURMET",
+            "web_page": "http://www.ambientegourmet.com",
+            "image": "https://primaveraurbana.co/wp-content/uploads/2018/10/ambientegourmet.jpg",
+            "local_number": "326",
+            "id": 5,
+            "categories": [
+                5
+            ],
+            "description": "Desde el año 2005, AMBIENTE GOURMET® ha ayudado a reunir personas alrededor de la mesa y a divertirse elaborando sus comidas con utensilios llenos de diseño y calidad en la vida cotidiana y ocasiones especiales."
+        },
+        {
+            "phone_number": "315 3640172",
+            "name": "ARTURO CALLE",
+            "web_page": "http://www.arturocalle.com",
+            "image": "https://primaveraurbana.co/wp-content/uploads/2018/10/arturocalle.jpg",
+            "local_number": "104",
+            "id": 6,
+            "categories": [
+                16
+            ],
+            "description": "ARTURO CALLE es una marca de tradición y respaldo con gran reconocimiento en el país, que ha vestido por medio siglo al hombre contemporáneo. Sus seguidores reconocen en sus prendas y accesorios: calidad, moda y diversidad, a precios justos."
+        },
+        {
+            "phone_number": "3153640172",
+            "name": "ARTURO KIDS",
+            "web_page": "http://arturocallekids.com/",
+            "image": "https://primaveraurbana.co/wp-content/uploads/2019/02/interior_Arturo-Kids.jpg",
+            "local_number": "104",
+            "id": 7,
+            "categories": [
+                18
+            ],
+            "description": "Vestirse bien es cuestión de estilo. Con nuestros looks llena tus momentos de moda y color. Ropa, zapatos y accesorios para Niños."
+        },
+        {
+            "phone_number": "(8) 6740909",
+            "name": "ASEGURACTIVOS",
+            "web_page": "http://aseguractivos.net/nuestra-empresa",
+            "image": "https://primaveraurbana.co/wp-content/uploads/2018/10/asegurativos.jpg",
+            "local_number": "Piso 1",
+            "id": 8,
+            "categories": [
+                9
+            ],
+            "description": "Somos una empresa dedicada a otorgar seguridad y confianza a nuestros clientes, gracias a nuestra gama de seguros: personas, empresas, vehículos, maquinaria, administradoras de riesgos profesionales- arp, aviación, hogar, maquinaria petrolera y pólizas de vida."
+        },
+        {
+            "phone_number": "(8) 6740605",
+            "name": "BABY FRESH",
+            "web_page": "http://www.babyfresh.com.co",
+            "image": "https://primaveraurbana.co/wp-content/uploads/2018/10/babyfresh.jpg",
+            "local_number": "210",
+            "id": 9,
+            "categories": [
+                18
+            ],
+            "description": "Prendas seguras, cómodas y hechas en 100% algodón para bebés entre los 0 y los 4 años. Baby Fresh es una marca especializada en protección a través del vestuario, con detalles diseñados para cuidar la piel de los bebés y estimular su desarrollo sano y feliz."
+        },
+        {
+            "phone_number": "(8) 6740081",
+            "name": "BAILA",
+            "web_page": "https://es-la.facebook.com/BailaCalzadoFemenino",
+            "image": "https://primaveraurbana.co/wp-content/uploads/2018/10/baila.jpg",
+            "local_number": "319",
+            "id": 10,
+            "categories": [
+                19
+            ],
+            "description": "Baila Villavicencio la Marca más posicionada del Calzado en el Departamento del Meta."
+        },
+        {
+            "phone_number": "(1) 5878787 ext. 4660",
+            "name": "BANCO FALABELLA",
+            "web_page": "http://www.bancofalabella.com.co",
+            "image": "https://primaveraurbana.co/wp-content/uploads/2018/10/bancofalabella.jpg",
+            "local_number": "148",
+            "id": 11,
+            "categories": [
+                12
+            ],
+            "description": "Nuestro trabajo como Banco Falabella S.A. y la relación con los clientes se funda en tres pilares:\r\n1.Transparencia: Hablar al cliente mirándolo a los ojos\r\n2.Conveniencia: Entregar más de lo que el cliente necesita\r\n3.Simplicidad: Facilitar la vida del cliente\""
+        },
+        {
+            "phone_number": "(8) 6836103",
+            "name": "BANCOLOMBIA",
+            "web_page": "http://www.grupobancolombia.com",
+            "image": "https://primaveraurbana.co/wp-content/uploads/2018/11/tienda_bancolombia.jpg",
+            "local_number": "245/247",
+            "id": 12,
+            "categories": [
+                12
+            ],
+            "description": "Bancolombia es una organización financiera colombiana, perteneciente al Grupo Sura, a su vez parte del Grupo Empresarial Antioqueño, es el banco privado más grande del país y uno de los más grandes de América."
+        },
+        {
+            "phone_number": "(8) 6833877",
+            "name": "BASTIMENTO",
+            "web_page": "https://www.facebook.com/restaurantebastimento",
+            "image": "https://primaveraurbana.co/wp-content/uploads/2018/10/bastimento.jpg",
+            "local_number": "238A",
+            "id": 13,
+            "categories": [
+                10
+            ],
+            "description": "La cocina de autor ha demarcado la tendencia de Bastimento Restaurante - Bar, logrando una mezcla de sabores únicos en la ciudad de Villavicencio, con la distinción de siempre, destacar los ingredientes y la cocina regional llanera."
+        },
+        {
+            "phone_number": "(8) 6611672",
+            "name": "BBVA",
+            "web_page": "https://www.bbva.com.co",
+            "image": "https://primaveraurbana.co/wp-content/uploads/2018/10/bbva.jpg",
+            "local_number": "248/249",
+            "id": 14,
+            "categories": [
+                12
+            ],
+            "description": "BBVA Colombia es reconocida como una entidad ágil y moderna, caracterizada por su constante vocación de liderazgo e innovación, que la ha llevado a ocupar siempre los primeros lugares en el sector financiero colombiano. Trabaja para construir relaciones duraderas con las personas y aportar el máximo valor posible, tanto a sus grupos de interés como a la sociedad en general, para hacer más sencilla la vida de todos."
+        },
+        {
+            "phone_number": "(1)7451857 ext. 812",
+            "name": "BEER",
+            "web_page": "http://www.pub-beer.com",
+            "image": "https://primaveraurbana.co/wp-content/uploads/2018/10/beer.jpg",
+            "local_number": "128",
+            "id": 15,
+            "categories": [
+                1
+            ],
+            "description": "Somos el pub de las “cervezas artesanales con actitud” para los amigos y los amigos de los amigos. En todos nuestros territorios encontrarás la mejor cerveza artesanal, hecha sin aditivos químicos y con especial cuidado en el sabor y la calidad. 4 tipos de cervezas artesanales (tradicionales, premium, especiales y “de temporada”),  combinan muy bien con nuestro menú, nuestras pantallas y nuestra música."
+        },
+        {
+            "phone_number": "321 4603005",
+            "name": "Bella Piel",
+            "web_page": "http://www.bellapiel.com.co",
+            "image": "https://primaveraurbana.co/wp-content/uploads/2019/01/Bellapiel-Interna.jpg",
+            "local_number": "234",
+            "id": 16,
+            "categories": [
+                2
+            ],
+            "description": "Somos los Especialiastas en Dermatología Cosmética, el lugar donde consigues los mejores productos y las marcas más reconocidas en el mundo para el cuidado de la piel, cabello y uñas. La atención ofrecida en cada uno de nuestros puntos de venta es nuestra vocación de servicio.  Si buscas un lugar para tu piel lo mejor es Bella Piel."
+        },
+        {
+            "phone_number": "(8) 6784805",
+            "name": "BISTRONOMY BY RAUSCH",
+            "web_page": "https://www.facebook.com/pages/Bistronomy/1987705488177460",
+            "image": "https://primaveraurbana.co/wp-content/uploads/2018/10/bistronomy.jpg",
+            "local_number": "158/160",
+            "id": 17,
+            "categories": [
+                10
+            ],
+            "description": "Los Hermanos Rausch crearon este restaurante de ambiente casual y decoración acogedora, para ofrecernos una gran experiencia gastronómica a precios atractivos, ideal para cualquier ocasión. La cocina es de tendencia Europea y Americana, y se utilizan los mejores ingredientes en platos particulares, llamativos y sobre todo deliciosos."
+        },
+        {
+            "phone_number": "(8) 6740156",
+            "name": "BOCORÉ CAFÉ",
+            "web_page": "https://www.cafebocore.com",
+            "image": "https://primaveraurbana.co/wp-content/uploads/2018/10/bocore.jpg",
+            "local_number": "157",
+            "id": 18,
+            "categories": [
+                3
+            ],
+            "description": "El café que preparamos en Bocoré tiene su origen en nuestro territorio nacional. Nuestra promesa es servir lo mejor del café colombiano que gracias a nuestra variada geografía y gran diversidad de climas, su producción viene cargada de atributos especiales."
+        },
+        {
+            "phone_number": "(8) 6848517",
+            "name": "BONBONITE",
+            "web_page": "http://www.bon-bonite.com",
+            "image": "https://primaveraurbana.co/wp-content/uploads/2018/10/bonbonite.jpg",
+            "local_number": "102-103",
+            "id": 19,
+            "categories": [
+                19
+            ],
+            "description": "bon-bonite es una empresa con más de 35 años de experiencia en el diseño y comercialización de zapatos, bolsos y cinturones para dama que se ha posicionado como una de las marcas con mayor reconocimiento y liderazgo en el mercado."
+        },
+        {
+            "phone_number": "(8) 6849887",
+            "name": "BOSI",
+            "web_page": "http://www.mybosi.com",
+            "image": "https://primaveraurbana.co/wp-content/uploads/2018/10/bosi.jpg",
+            "local_number": "115",
+            "id": 20,
+            "categories": [
+                19
+            ],
+            "description": "Somos una empresa productora y comercializadora de calzado y accesorios en cuero que busca satisfacer las necesidades y deseos permanentes de nuestros clientes, proporcionando moda, distinción, calidad y un servicio personalizado, gracias a la integración de las personas, la tecnología y los sistemas empresariales."
+        },
+        {
+            "phone_number": "(8) 6741041",
+            "name": "CALVIN KLEIN",
+            "web_page": "http://explore.calvinklein.com/es_SAM",
+            "image": "https://primaveraurbana.co/wp-content/uploads/2018/10/calvinklein.jpg",
+            "local_number": "237",
+            "id": 21,
+            "categories": [
+                16
+            ],
+            "description": "CALVIN KLEIN es una marca global de estilo de vida que representa ideales audaces y vanguardistas, y una estética seductora y a menudo minimalista. Buscamos fascinar e inspirar a nuestra audiencia con diseños llamativos que despierten los sentidos. "
+        },
+        {
+            "phone_number": "(8) 6832984",
+            "name": "CARLOS NIETO",
+            "web_page": "http://www.carlosnieto.com.co",
+            "image": "https://primaveraurbana.co/wp-content/uploads/2018/10/carlosnieto.jpg",
+            "local_number": "138",
+            "id": 22,
+            "categories": [
+                16
+            ],
+            "description": "Carlos Nieto es la marca de ropa para hombres con estilo. Tenemos cuatro lineas: Sartorial, Platino, Carlos Nieto y Lab. Todo un universo de posibilidades con elegancia."
+        },
+        {
+            "phone_number": "(8) 6820555",
+            "name": "CARULLA",
+            "web_page": "http://www.carulla.com",
+            "image": "https://primaveraurbana.co/wp-content/uploads/2018/10/carulla.jpg",
+            "local_number": "SS",
+            "id": 23,
+            "categories": [
+                9
+            ],
+            "description": "Lo que necesitas para cocinar, celebrar y disfrutar de tu hogar lo encuentras aquí.\r\nHaz que cada día ir a la mesa sea especial."
+        },
+        {
+            "phone_number": "(8) 6625108 - 3154526042",
+            "name": "CASINO ROYALE",
+            "web_page": "https://www.facebook.com/pg/ROYALPRIMAVERA/about/?ref=page_internal",
+            "image": "https://primaveraurbana.co/wp-content/uploads/2018/10/casinoroyale.jpg",
+            "local_number": "336",
+            "id": 24,
+            "categories": [
+                1
+            ],
+            "description": "Casino Royale-Villavicencio te ofrece la mejor experiencia de juego en vivo, (Black jack, Bacarat, Poker Bonus, Ruleta manual). Visítanos!"
+        },
+        {
+            "phone_number": "3163473895",
+            "name": "CELPHONE",
+            "web_page": "",
+            "image": "https://primaveraurbana.co/wp-content/uploads/2018/10/cellphone.jpg",
+            "local_number": "SS",
+            "id": 25,
+            "categories": [
+                14
+            ],
+            "description": "Accesorios y soporte técnico de celulares"
+        },
+        {
+            "phone_number": "(8) 6000373 ext 7702",
+            "name": "CINEMARK",
+            "web_page": "http://www.cinemark.com.co",
+            "image": "https://primaveraurbana.co/wp-content/uploads/2018/10/cinemark.jpg",
+            "local_number": "318",
+            "id": 26,
+            "categories": [
+                1
+            ],
+            "description": "En Colombia, todos nuestros Multiplex están dotados con tecnologia 100% digital. Cinemark ha venido innovando con nuevas experiencias y formatos, actualmente cuenta con tecnología XD, sillas con movimiento D-BOX, Sala Premier con un exclusivo servicio y gran variedad de comidas y bebidas tipo gourmet, lo que permite brindar una experiencia única y diferente. "
+        },
+        {
+            "phone_number": "",
+            "name": "CLARO",
+            "web_page": "http://www.claro.com.co",
+            "image": "https://primaveraurbana.co/wp-content/uploads/2018/10/claro.jpg",
+            "local_number": "Piso 1",
+            "id": 27,
+            "categories": [
+                14
+            ],
+            "description": "Claro es una empresa operadora de televisión por suscripción y telefonía móvil, filial de Claro en Colombia, que trabaja con la mejor tecnología y servicio del país."
+        },
+        {
+            "phone_number": "(8) 6814837",
+            "name": "CLONHADAS",
+            "web_page": "http://www.clonhadas.com.co",
+            "image": "https://primaveraurbana.co/wp-content/uploads/2018/10/clonhadas.jpg",
+            "local_number": "231",
+            "id": 28,
+            "categories": [
+                11
+            ],
+            "description": "Hace 17 años, Clonhadas dio inicio a una de las marcas de  ropa  para dormir más reconocidas de Colombia. Brindamos para toda la familia productos de excelente calidad que garanticen comodidad y distinción a  través de diseños y materiales exclusivos  atendiendo una permanente innovación en la moda."
+        },
+        {
+            "phone_number": "(8) 6833922 - 3505941415",
+            "name": "COLCHONES PARAÍSO",
+            "web_page": "http://www.colchonesparaiso.com.co",
+            "image": "https://primaveraurbana.co/wp-content/uploads/2018/10/clonhadas.jpg",
+            "local_number": "321",
+            "id": 29,
+            "categories": [
+                5
+            ],
+            "description": "COLCHONES PARAISO es una organización 100% colombiana, dedicada a fabricar y comercializar soluciones para el descanso con 48 años de trayectoria en el mercado colombiano."
+        },
+        {
+            "phone_number": "(8) 6849275",
+            "name": "COLPATRIA SCOTIABANK",
+            "web_page": "https://www.colpatria.comhttp://",
+            "image": "https://primaveraurbana.co/wp-content/uploads/2019/02/Scotiabank.jpg",
+            "local_number": "127",
+            "id": 30,
+            "categories": [
+                12
+            ],
+            "description": "Es un Banco donde encontrarás servicios y productos financieros para particulares y empresas: Tarjetas de Crédito, Préstamos, Cuentas, Inversión, Seguros, y más."
+        },
+        {
+            "phone_number": "(8) 6814838",
+            "name": "COLUMBIA OUTDOORS",
+            "web_page": "http://www.columbiasportswear.com",
+            "image": "https://primaveraurbana.co/wp-content/uploads/2018/10/columbia.jpg",
+            "local_number": "211-212",
+            "id": 31,
+            "categories": [
+                4
+            ],
+            "description": "Columbia en la empresa de equipamiento deportivo líder a nivel mundial que produce ropa y calzado para que permanezcas CÁLIDO, SECO, FRESCO y PROTEGIDO contra viento y marea. \r\nEs una empresa formada por gente como tú, a la que le gusta disfrutar de las actividades outdoor."
+        },
+        {
+            "phone_number": "(8) 6709898 ext 112",
+            "name": "CONSUERTE",
+            "web_page": "http://www.consuerte.com.co",
+            "image": "https://primaveraurbana.co/wp-content/uploads/2019/02/interior-Consuerte.jpg",
+            "local_number": "152",
+            "id": 32,
+            "categories": [
+                12
+            ],
+            "description": "Somos la red de multiservicios con mayor cobertura en el departamento del Meta generando mayor felicidad a nuestros clientes."
+        },
+        {
+            "phone_number": "(8) 6732654",
+            "name": "CREPPES & WAFLES",
+            "web_page": "http://www.crepesywaffles.com.co",
+            "image": "https://primaveraurbana.co/wp-content/uploads/2018/10/crepes.jpg",
+            "local_number": "143",
+            "id": 33,
+            "categories": [
+                10
+            ],
+            "description": "En Crepes & Waffles servimos arte con amor, conquistamos corazones, cautivamos paladares, promovemos mil encuentros."
+        },
+        {
+            "phone_number": "(8) 7455947 ext 2121",
+            "name": "CROMANTIC",
+            "web_page": "http://www.cromantic.com",
+            "image": "https://primaveraurbana.co/wp-content/uploads/2018/10/cromantic.jpg",
+            "local_number": "130",
+            "id": 34,
+            "categories": [
+                2
+            ],
+            "description": "Somos el primer supermercado de belleza dirigido a profesionales de la belleza y a mujeres que buscan una asesoría de consultoras expertas. Buscamos brindar una nueva experiencia en la compra de productos de belleza, donde la experticia es clave y la posibilidad de tocar, probar y jugar con los productos es protagonista. Además, contamos con un portafolio de productos que cubren todas las necesidades en cosméticos."
+        },
+        {
+            "phone_number": "(8) 6716250",
+            "name": "DAVIVIENDA",
+            "web_page": "http://www.davivienda.com",
+            "image": "https://primaveraurbana.co/wp-content/uploads/2018/10/davivienda.jpg",
+            "local_number": "150-151",
+            "id": 35,
+            "categories": [
+                12
+            ],
+            "description": "Durante 4 décadas hemos participado activamente en la construcción de Colombia y nos hemos convertido en un referente importante en el sector financiero del país. Hacemos parte del Grupo Empresarial Bolívar, que por más de 70 años ha acompañado a las personas, a las familias y a las empresas en el cumplimiento de sus objetivos."
+        },
+        {
+            "phone_number": "(8) 6832967",
+            "name": "DENTIX",
+            "web_page": "https://www.dentix.com/es-co/",
+            "image": "https://primaveraurbana.co/wp-content/uploads/2018/11/Dentix.jpg",
+            "local_number": "305-06",
+            "id": 36,
+            "categories": [
+                13
+            ],
+            "description": "Somos la red europea de clínicas propias más grande del mundo, donde encontrarás todos los servicios en el mismo lugar. Somos expertos en Implantología y Estética Dental con tecnología de vanguardia desde el diagnóstico hasta el tratamiento."
+        },
+        {
+            "phone_number": "3506541861",
+            "name": "DIVINA ACCESORIOS",
+            "web_page": "https://www.facebook.com/divinaaccesoriosco",
+            "image": "https://primaveraurbana.co/wp-content/uploads/2018/10/divina.jpg",
+            "local_number": "Piso 2",
+            "id": 37,
+            "categories": [
+                0
+            ],
+            "description": "Buscamos consentir a las mujeres con productos exclusivos, llenos de diseño, estilo y a excelentes precios. "
+        },
+        {
+            "phone_number": "(8) 6740837",
+            "name": "DON JEDIONDO",
+            "web_page": "http://www.donjediondo.com",
+            "image": "https://primaveraurbana.co/wp-content/uploads/2018/10/donjediondo.jpg",
+            "local_number": "347",
+            "id": 38,
+            "categories": [
+                10
+            ],
+            "description": "Somos una empresa orgullosamente colombiana, con experiencia de 10 años incursionando en el ofrecimiento de comida típica boyacense, conservando las costumbres y tradiciones de cada plato con un toque y estilo humorístico propio de su fundador, Pedro Gonzáles “Don Jediondo”."
+        },
+        {
+            "phone_number": "(8) 6814863",
+            "name": "Efecty",
+            "web_page": "https://www.efecty.com.co",
+            "image": "https://primaveraurbana.co/wp-content/uploads/2019/01/Isla-Efecty.png",
+            "local_number": "Piso 1",
+            "id": 39,
+            "categories": [
+                12
+            ],
+            "description": "Somos especialistas en giros, pagos, recargas y recaudos a nivel nacional de una manera ágil y segura con una tecnología IN HOUSE que se ajusta a las necesidades de nuestros clientes."
+        },
+        {
+            "phone_number": "(8) 6740617 ext 2705",
+            "name": "ELA",
+            "web_page": "http://www.ela.com.co",
+            "image": "https://primaveraurbana.co/wp-content/uploads/2018/10/ela.jpg",
+            "local_number": "216-217-218",
+            "id": 40,
+            "categories": [
+                17
+            ],
+            "description": "Somos una marca Colombiana de moda femenina, nuestra propuesta de diseño innovadora nos caracteriza ya que se inspira en las tendencias propuestas por las grandes casas de moda en las principales pasarelas del mundo para adaptarla e integrarla a la cultura y el Street Style de América Latina."
+        },
+        {
+            "phone_number": "(8) 6824859",
+            "name": "ELLEMENT",
+            "web_page": "https://www.facebook.com/ellementco",
+            "image": "https://primaveraurbana.co/wp-content/uploads/2018/10/ellement.jpg",
+            "local_number": "253",
+            "id": 41,
+            "categories": [
+                2
+            ],
+            "description": "Ofrecemos para ti grandes productos que pueden embellecer tu día a día. Ellement es una marca especializada en la belleza, la calidad, la clase y el glamour. Ven, visítanos y encuentra lo que tanto has estado esperando."
+        },
+        {
+            "phone_number": "(8) 6740062",
+            "name": "ELLIPSE",
+            "web_page": "http://www.ellipselingerie.com",
+            "image": "https://primaveraurbana.co/wp-content/uploads/2018/11/tienda_elipse.jpg",
+            "local_number": "230",
+            "id": 42,
+            "categories": [
+                17
+            ],
+            "description": "Ellipse es una marca Colombiana dedicada al diseño de ropa interior, trajes de baño y pijamas para la mujer."
+        },
+        {
+            "phone_number": "3176419360",
+            "name": "EPK",
+            "web_page": "http://www.shopepk.com.co",
+            "image": "https://primaveraurbana.co/wp-content/uploads/2018/10/epk.jpg",
+            "local_number": "228-229",
+            "id": 43,
+            "categories": [
+                18
+            ],
+            "description": "EPK es una cadena de tiendas especializada en la venta de ropa y accesorios para bebes y niños de 0 meses a 12 años, nos caracterizamos por tener más de 15 años de experiencia internacional en el diseño de prendas de estilo moderno y “chic”, adaptando las últimas tendencias de la moda al público infantil."
+        },
+        {
+            "phone_number": "(8) 6832933",
+            "name": "FALABELLA",
+            "web_page": "http://www.falabella.com.co",
+            "image": "https://primaveraurbana.co/wp-content/uploads/2018/10/falabella.jpg",
+            "local_number": "101-201-301",
+            "id": 44,
+            "categories": [
+                15
+            ],
+            "description": "Somos la tienda por departamento más importante del país, donde puedes encontrar en un mismo lugar vestuario, calzado, tecnología, decoración, hogar y mucho más. Visitanos!"
+        },
+        {
+            "phone_number": "3103377809",
+            "name": "FARMATODO",
+            "web_page": "http://www.farmatodo.com.co",
+            "image": "https://primaveraurbana.co/wp-content/uploads/2018/10/farmatodo.jpg",
+            "local_number": "302-303-304",
+            "id": 45,
+            "categories": [
+                2
+            ],
+            "description": "Casi 100 años de experiencia respaldan el trabajo de Farmatodo, una empresa familiar que llegó a Colombia con un formato innovador, donde puedes encontrar en un único lugar, productos de salud, belleza, bebé y cuidado personal."
+        },
+        {
+            "phone_number": "(8) 6814986",
+            "name": "FITAO",
+            "web_page": "http://www.fitao.com.co",
+            "image": "https://primaveraurbana.co/wp-content/uploads/2018/10/fitao.jpg",
+            "local_number": "320",
+            "id": 46,
+            "categories": [
+                2
+            ],
+            "description": "Fitao es un centro de acondicionamiento físico en donde verás resultados rápidamente ya que combinamos el entrenamiento semi-personalizado (dos alumnos por instructor) con la mejor tecnología de electroestimulación."
+        },
+        {
+            "phone_number": "(8) 6832884",
+            "name": "FOX",
+            "web_page": "http://www.foxracing.com",
+            "image": "https://primaveraurbana.co/wp-content/uploads/2018/10/fox.jpg",
+            "local_number": "117",
+            "id": 47,
+            "categories": [
+                4
+            ],
+            "description": "FOX ha mantenido su posición como líder de la innovación en la industria de MX mediante el diseño y producción de equipo de motocross y ropa para los mejores pilotos. La compañía ha ampliado sus productos en BTT, BMX, surf y wakeboard, y completa el diseño innovador que inspira los hombres, las mujeres y los jóvenes. Fox … We live it"
+        },
+        {
+            "phone_number": "(8) 6741241",
+            "name": "FRESHII",
+            "web_page": "https://www.freshii.com/co",
+            "image": "https://primaveraurbana.co/wp-content/uploads/2018/11/tienda_freshii.jpg",
+            "local_number": "346",
+            "id": 48,
+            "categories": [
+                10
+            ],
+            "description": "Si tienes hambre y lo único que tienes a tu disposición es una barra de chocolate, ¿te la comes?. Ahora, imagínate que entre tu mano y esa barra de chocolate te pusiéramos una porción de fruta, ¿escogerías la fruta?. Nuestra meta es sencilla. En Freshii queremos ser esa fruta. A través de nuestra visión COME, ENERGÍZATE Freshii está comprometido en ofrecerte opciones variadas y deliciosas de alimentos nutritivos y frescos que te provean la energía “On the go”"
+        },
+        {
+            "phone_number": "(8) 6833861 - 301 5555555",
+            "name": "FRISBY",
+            "web_page": "http://www.frisby.com.co",
+            "image": "https://primaveraurbana.co/wp-content/uploads/2018/10/frisby.jpg",
+            "local_number": "334",
+            "id": 49,
+            "categories": [
+                10
+            ],
+            "description": "Somos la cadena de restaurantes especializada en pollo, que provoca y deleita a la gente\r\nalimentándola con amor, sabor, servicio y calidad. En Frisby “Alimentamos con amor\""
+        },
+        {
+            "phone_number": "",
+            "name": "FXA",
+            "web_page": "https://www.fxashop.com",
+            "image": "https://primaveraurbana.co/wp-content/uploads/2019/04/interior-local.jpg",
+            "local_number": "131",
+            "id": 50,
+            "categories": [
+                0,
+                2,
+                6
+            ],
+            "description": "FXA By Fuxia es una empresa colombiana que lleva 12 años enalteciendo la belleza de la mujer Latina, con accesorios vanguardista, hippie Chic y Clásico, tenemos un mundo infinito de posibilidades, para que complementes tus outfits, Sin contar con nuestra hermosa categoría para las más pequeñas de la casa, nuestras niñas!"
+        },
+        {
+            "phone_number": "320 389 2044",
+            "name": "GABYPAPERS",
+            "web_page": "https://www.instagram.com/gabypapers/",
+            "image": "https://primaveraurbana.co/wp-content/uploads/2019/06/productos.png",
+            "local_number": "segundo nivel balcón entrada principal",
+            "id": 51,
+            "categories": [
+                0,
+                5,
+                8
+            ],
+            "description": "Somos una tienda de regalos que como dice su lema: “Empieza como un sueño y de la mano de Dios”.  Una tienda soñada cuando el deseo de emprender, de querer ser independiente y hacer cosas diferentes, se instaló en mi corazón.\r\n\r\n Como amante del universo kawaii, busco que cuando visites nuestras tiendas, te sientas como en un mundo mágico y encantador, en donde te resultará prácticamente imposible elegir algo… porque desearas comprar TODO!!!"
+        },
+        {
+            "phone_number": "(8) 6832968",
+            "name": "GALLERY",
+            "web_page": "http://gallerycolombia.com",
+            "image": "https://primaveraurbana.co/wp-content/uploads/2018/11/tienda_gallery.jpg",
+            "local_number": "112",
+            "id": 52,
+            "categories": [
+                16
+            ],
+            "description": "En nuestras tiendas Gallery podrás encontrar a tu disposición productos de las siguientes marcas: – True Religion – Armani Jeans – Armani Collection – Paul&Shark – HugoBoss – Versace Collection – Bcbgmaxazria"
+        },
+        {
+            "phone_number": "3138596099",
+            "name": "GALLITO DE ROCA",
+            "web_page": "https://es-la.facebook.com/GallitodeRocaa",
+            "image": "https://primaveraurbana.co/wp-content/uploads/2019/01/Gallito-de-Roca-1.png",
+            "local_number": "Piso 1",
+            "id": 53,
+            "categories": [
+                0
+            ],
+            "description": "Somos una tienda de accesorios con un diseño sofisticado y elegante para la mujer de hoy. \r\nVisítanos en la isla 104."
+        },
+        {
+            "phone_number": "(8) 6740605",
+            "name": "GEF",
+            "web_page": "http://www.gef.com.co",
+            "image": "https://primaveraurbana.co/wp-content/uploads/2018/10/gef.jpg",
+            "local_number": "205-206- 207",
+            "id": 54,
+            "categories": [
+                11
+            ],
+            "description": "GEF es color, alegría y versatilidad para cada momento del día. Ofrecemos moda fácil de usarse, atractiva y cómoda para acompañar a mujeres, hombres, adolescentes y niños en cada ocasión. ¡Con GEF podrás encontrar las mejores prendas para expresar lo que te hace único!"
+        },
+        {
+            "phone_number": "3203967641",
+            "name": "GOCELL",
+            "web_page": "https://es-la.facebook.com/gocell.co",
+            "image": "https://primaveraurbana.co/wp-content/uploads/2018/10/gocel.jpg",
+            "local_number": "Piso 2",
+            "id": 55,
+            "categories": [
+                14
+            ],
+            "description": "Accesorios y soporte técnico de celulares"
+        },
+        {
+            "phone_number": "(1) 7026338",
+            "name": "GOYURT",
+            "web_page": "http://go-yurt.com",
+            "image": "https://primaveraurbana.co/wp-content/uploads/2018/10/goyurt.jpg",
+            "local_number": "Isla 3",
+            "id": 56,
+            "categories": [
+                3
+            ],
+            "description": "Goyurt es un yogurt helado hecho al instante, de alta calidad y saludable, caracterizado por su bajo contenido en grasas y su sorprendente sabor. Tanto por su composición con leche desnatada como por su elaboración con la mejor selección de los productos de la gelatería italiana, hacen de Goyurt ser la mejor opción entre los consumidores."
+        },
+        {
+            "phone_number": "(8) 6832896",
+            "name": "GUSTAVO GIRALDO",
+            "web_page": "http://www.gustavogiraldo.com",
+            "image": "https://primaveraurbana.co/wp-content/uploads/2018/10/gustavogiraldo.jpg",
+            "local_number": "134",
+            "id": 57,
+            "categories": [
+                6
+            ],
+            "description": "Con innovación y gran proyección Gustavo Giraldo se muestra como una de las joyerías líder en tendencia en Villavicencio, buscando expandir horizontes iniciando por quedarse, gracias a sus productos de gran calidad, en el corazón de los llaneros."
+        },
+        {
+            "phone_number": "(8) 6832989 // (8) 6784698",
+            "name": "ISLAS MARGARITA",
+            "web_page": "",
+            "image": "https://primaveraurbana.co/wp-content/uploads/2018/10/islamargarita.jpg",
+            "local_number": "233",
+            "id": 58,
+            "categories": [
+                6
+            ],
+            "description": "Somos una joyería que ofrece las mejores marcas, la mejor calidad y gran variedad en cuanto a joyería, siendo así una de las más importantes en la capital de la “media Colombia”."
+        },
+        {
+            "phone_number": "3208600961",
+            "name": "JEEPETO",
+            "web_page": "https://es-la.facebook.com/pages/category/Grocery-Store/Jeepeto-672964853091884",
+            "image": "https://primaveraurbana.co/wp-content/uploads/2019/02/jeepeto.jpg",
+            "local_number": "Piso 3",
+            "id": 59,
+            "categories": [
+                3
+            ],
+            "description": "En Jeepeto puedes encontrar los sabores de Colombia, gracias a nuestra exquisita mazamorra antioqueña, un inigualable arroz con leche y una refrescante limonada. "
+        },
+        {
+            "phone_number": "320 2304192 - 3016382158",
+            "name": "JFD CASES",
+            "web_page": "https://www.instagram.com/jfdcases_/",
+            "image": "https://primaveraurbana.co/wp-content/uploads/2019/05/jfd-interior.jpg",
+            "local_number": "Isla 205 2do piso",
+            "id": 60,
+            "categories": [
+                0,
+                4,
+                5,
+                14
+            ],
+            "description": "JFD CASES es una empresa 100% llanera que llega para ofrecerte una variedad de accesorios y servicio técnico para tu celular, así como también accesorios para tu bicicleta, te brindamos muy buena calidad a precios asequibles"
+        },
+        {
+            "phone_number": "01-800-0128127",
+            "name": "JON SONEN",
+            "web_page": "http://www.jonsonen.com",
+            "image": "https://primaveraurbana.co/wp-content/uploads/2018/10/jonsonen.jpg",
+            "local_number": "113",
+            "id": 61,
+            "categories": [
+                16
+            ],
+            "description": "JON SONEN es una marca para el hombre contemporáneo que busca diferenciar su atuendo con atributos de valor agregado, que reúnen exclusividad e innovación."
+        },
+        {
+            "phone_number": "3134496994",
+            "name": "JUAN VALDEZ",
+            "web_page": "https://www.juanvaldezcafe.com",
+            "image": "https://primaveraurbana.co/wp-content/uploads/2018/10/juanvaldez.jpg",
+            "local_number": "124",
+            "id": 62,
+            "categories": [
+                3
+            ],
+            "description": "Generamos emociones, bienestar y satisfacción alrededor del mejor café de Colombia. Queremos ser la marca de café Premium colombiano preferida globalmente por su calidad y generación de bienestar a su entorno"
+        },
+        {
+            "phone_number": "3016998545",
+            "name": "JUMPING PARK",
+            "web_page": "https://www.jumpingpark.co",
+            "image": "https://primaveraurbana.co/wp-content/uploads/2019/01/jumpingInterior.jpg",
+            "local_number": "313-317",
+            "id": 63,
+            "categories": [
+                1
+            ],
+            "description": "Da un salto a la diversión con nuestros increíbles trampolines y con todas las actividades que tenemos para ti. Visítanos en el local 317"
+        },
+        {
+            "phone_number": "(8) 6740644",
+            "name": "KEVINS JOYEROS",
+            "web_page": "http://www.kevins.com.co",
+            "image": "https://primaveraurbana.co/wp-content/uploads/2018/11/tienda_kevins.jpg",
+            "local_number": "155",
+            "id": 64,
+            "categories": [
+                6
+            ],
+            "description": "Kevin’s Joyeros ® es una compañía colombiana especializada en hacer que los momentos más importantes de nuestros clientes se conviertan en recuerdos inolvidables a través de las mejores colecciones de joyería, argollas de matrimonio, anillos de compromiso y las marcas más reconocidas de relojes."
+        },
+        {
+            "phone_number": "(8) 6740836",
+            "name": "LEONISA",
+            "web_page": "http://www.leonisa.com",
+            "image": "https://primaveraurbana.co/wp-content/uploads/2019/01/Leonisa-Interna.jpg",
+            "local_number": "137",
+            "id": 65,
+            "categories": [
+                11
+            ],
+            "description": "Leonisa es una marca que conoce profundamente a la mujer. Desde 1956 hemos creado soluciones innovadoras para fortalecer y divulgar su belleza íntima. Durante estos años hemos establecido una relación profunda entre la ropa interior femenina, el alma de las mujeres latinas y sus expresiones: actitud, identidad, sensibilidad y amor propio."
+        },
+        {
+            "phone_number": "(8) 6741095",
+            "name": "LEVI´S",
+            "web_page": "http://www.levi.com.co/colombia",
+            "image": "https://primaveraurbana.co/wp-content/uploads/2019/01/Levis-Interna.jpg",
+            "local_number": "254",
+            "id": 66,
+            "categories": [
+                16
+            ],
+            "description": "Levi Strauss & Co. es una empresa estadounidense productora de prendas de vestir, mundialmente conocida por la marca Levi’s de pantalones vaqueros."
+        },
+        {
+            "phone_number": "3132896306",
+            "name": "LOCKERS CASCOS",
+            "web_page": "",
+            "image": "https://primaveraurbana.co/wp-content/uploads/2019/02/interior-Locker-motos.jpg",
+            "local_number": "SS",
+            "id": 67,
+            "categories": [
+                9
+            ],
+            "description": "Siéntete más seguro con nuestros Lockers para cascos de moto. Visítanos en SS"
+        },
+        {
+            "phone_number": "(8) 7455947",
+            "name": "LURYX",
+            "web_page": "https://luryx.com",
+            "image": "https://primaveraurbana.co/wp-content/uploads/2018/11/Luryx.jpg",
+            "local_number": "129",
+            "id": 68,
+            "categories": [
+                2
+            ],
+            "description": "Somos distribuidores en Colombia de importantes marcas de fragancias y maquillaje. Algunas de nuestras marcas son:\r\nDolce & Gabbana, Issey Miyake, Tous, Narciso Rodriguez, Salvatore Ferragamo entre. otros"
+        },
+        {
+            "phone_number": "3012404252",
+            "name": "MAMAYUU",
+            "web_page": "https://www.instagram.com/frozenmamayuu/?hl=es-la",
+            "image": "https://primaveraurbana.co/wp-content/uploads/2018/11/tienda_mamayu.jpg",
+            "local_number": "Isla 101",
+            "id": 69,
+            "categories": [
+                3
+            ],
+            "description": "Mamayuú es una compañía joven y dinámica preocupada por llevar a nuestros clientes el mejor helado de yogurt. Seleccionamos los mejores ingredientes para nuestro yogurt natural y nutritivo, fruta fresca cortada cada día y toppings deliciosos, para que nuestros clientes disfruten de una experiencia única."
+        },
+        {
+            "phone_number": "(8) 6741093",
+            "name": "MARIO HERNANDEZ",
+            "web_page": "http://www.mariohernandez.com.co",
+            "image": "https://primaveraurbana.co/wp-content/uploads/2018/11/tienda_mariohernandez.jpg",
+            "local_number": "139",
+            "id": 70,
+            "categories": [
+                16
+            ],
+            "description": "Es una promesa cumplida de moda, excelencia y calidad internacional, es sinónimo de excelencia manufacturera, innovación en el diseño, uso de materiales de vanguardia y óptimo servicio."
+        },
+        {
+            "phone_number": "(8) 6832831",
+            "name": "MARTIN VIDAL",
+            "web_page": "http://martinvidal.com",
+            "image": "https://primaveraurbana.co/wp-content/uploads/2018/11/tienda_martinvial.jpg",
+            "local_number": "250",
+            "id": 71,
+            "categories": [
+                2
+            ],
+            "description": "Ofrecemos servicios profesionales para el embellecimiento del cabello y uñas, y \r\ntratamientos especializados para cuerpo y rostro."
+        },
+        {
+            "phone_number": "3103063138",
+            "name": "MARULANDA",
+            "web_page": "https://www.facebook.com/Calzado-Marulanda-800090753432368",
+            "image": "https://primaveraurbana.co/wp-content/uploads/2019/01/Marulanda-Interna.jpg",
+            "local_number": "232",
+            "id": 72,
+            "categories": [
+                19
+            ],
+            "description": "Calzado Marulanda es un empresa comercializadora de zapatos y accesorios en Cuero de marca propia.  Fue fundada en 1955 en la ciudad de Villavicencio – Colombia por Alba y Jaime Marulanda. Los productos de nuestra marca están diseñados para mujeres que buscan llevar moda, calidad y comodidad al mismo tiempo."
+        },
+        {
+            "phone_number": "321 4426732",
+            "name": "ME-LATE CHOCOLATERIA",
+            "web_page": "https://es-la.facebook.com/Melatevillavicencio",
+            "image": "https://primaveraurbana.co/wp-content/uploads/2019/02/Melate.jpg",
+            "local_number": "Piso 2",
+            "id": 73,
+            "categories": [
+                3
+            ],
+            "description": "Endulza tu día con nuestras deliciosas fresas con chocolate. Calidad y sabor al alcance de tus manos. Visítanos en el piso 2"
+        },
+        {
+            "phone_number": "(8) 6814862",
+            "name": "MELISSA",
+            "web_page": "http://melissa.com.co",
+            "image": "https://primaveraurbana.co/wp-content/uploads/2019/01/Melissa-Interna.jpg",
+            "local_number": "252",
+            "id": 74,
+            "categories": [
+                19
+            ],
+            "description": "Melissa no es solo un zapato, es una celebración del diseño y un ícono de moda global lleno de diversión y color."
+        },
+        {
+            "phone_number": "(8) 6814857",
+            "name": "MI LIBELULA",
+            "web_page": "https://www.facebook.com/MiLibelulaTiendaInfantil",
+            "image": "https://primaveraurbana.co/wp-content/uploads/2018/11/tienda_mi_libelula.jpg",
+            "local_number": "154",
+            "id": 75,
+            "categories": [
+                18
+            ],
+            "description": "Acércate a nuestra tienda y disfruta de nuestro nuevo concepto, dando variedad, innovación y calidad para que los papás estén tranquilos y sus hijos luzcan fantásticos."
+        },
+        {
+            "phone_number": "310 288 9079",
+            "name": "Mi Piaci",
+            "web_page": "https://primaveraurbana.co/tiendas/mi-piaci/",
+            "image": "https://primaveraurbana.co/wp-content/uploads/2019/04/ionterior-local-mi-piaci.jpg",
+            "local_number": "Tercer Piso Primavera Urbana",
+            "id": 76,
+            "categories": [
+                3
+            ],
+            "description": "En Mi Piaci vives la experiencia de comer helado en rollo; utilizando una técnica artesanal originaria de Tailandia y combinándolo con el helado Italiano (Gelato)un producto bajo en grasa y azúcar, creamos una experiencia única donde puedes crear miles de combinaciones.\r\n\r\nSaborea tu felicidad  "
+        },
+        {
+            "phone_number": "",
+            "name": "MINISO",
+            "web_page": "",
+            "image": "https://primaveraurbana.co/wp-content/uploads/2019/04/20190410_172117.jpg",
+            "local_number": "222",
+            "id": 77,
+            "categories": [
+                0,
+                5,
+                6,
+                8,
+                14
+            ],
+            "description": "MINISO es una marca japonesa con 5,000 tiendas alrededor del mundo. \r\nMINISO ha revolucionado el consumo alrededor del mundo y llega a Colombia para ofrecer una gran diversidad de productos para el hogar, belleza, moda, deportes, tecnología, joyería, regalos, y artículos de temporada que promueven el consumo inteligente; calidad a precios accesibles."
+        },
+        {
+            "phone_number": "(8) 6741073",
+            "name": "MUSSI",
+            "web_page": "http://www.mussi.com.co",
+            "image": "https://primaveraurbana.co/wp-content/uploads/2018/11/tienda_mussi.jpg",
+            "local_number": "120",
+            "id": 78,
+            "categories": [
+                19
+            ],
+            "description": "Somos fabricantes de zapatos para mujer desde 1985 y hemos convertido a MUSSI en la mejor propuesta de moda en zapatos y accesorios en Colombia. Contamos con un gran equipo de profesionales y expertos en fabricación. Queremos ofrecerte una maravillosa experiencia en la compra y uso de los productos Mussi."
+        },
+        {
+            "phone_number": "3163473895",
+            "name": "NAF NAF",
+            "web_page": "http://www.nafnaf.com.co",
+            "image": "https://primaveraurbana.co/wp-content/uploads/2018/11/tienda_nafnaf.jpg",
+            "local_number": "125",
+            "id": 79,
+            "categories": [
+                17
+            ],
+            "description": "NAF NAF fue fundada en el año 1973 por Gerard y Patrick Pariente, su primer almacén fue llamado “Influencia” en Passage du Caire en Paris, al año siguiente se lanzan su primera colección NAFNAF, que se convirtió en una corporación de negocios bajo este nombre, en 1984 NAFNAF abrió su primer almacén de ventas al público en Paris."
+        },
+        {
+            "phone_number": "(8) 6740602",
+            "name": "OFF CORSS",
+            "web_page": "http://www.offcorss.com",
+            "image": "https://primaveraurbana.co/wp-content/uploads/2018/11/tienda_offcorss.jpg",
+            "local_number": "204",
+            "id": 80,
+            "categories": [
+                18
+            ],
+            "description": "Somos la marca #1 del mercado de moda infantil, llegando a cada uno de nuestros pequeños consumidores. Acompañamos cada una de las etapas de los niños; cubriendo cada uno de sus momentos, ofreciendo un look completo en diferentes ocasiones de uso.\r\n¡Hablamos a través de la magia, el color y la diversión!"
+        },
+        {
+            "phone_number": "(8) 6848344",
+            "name": "OPTICA MEJIA",
+            "web_page": "http://opticasdrmejia.com",
+            "image": "https://primaveraurbana.co/wp-content/uploads/2019/01/Óptica-Dr.-Mejía-Interna.jpg",
+            "local_number": "221",
+            "id": 81,
+            "categories": [
+                7
+            ],
+            "description": "Con más de 60 años en el mercado y un personal de alta preparación y experiencia en el campo de óptica, OPTICA MEJIA se ha posicionado como una empresa que ofrece productos y servicios de la más alta calidad en el mercado, satisfaciendo las necesidades de los clientes con altos estándares de calidad y cumplimiento, siendo la mejor alternativa que los usuarios puedan elegir al momento de adquirir sus gafas."
+        },
+        {
+            "phone_number": "(8) 6849991-3208090339",
+            "name": "OPTICALIA",
+            "web_page": "http://www.opticalia.co",
+            "image": "https://primaveraurbana.co/wp-content/uploads/2019/05/opticalia.jpg",
+            "local_number": "233",
+            "id": 82,
+            "categories": [
+                7
+            ],
+            "description": "¿Quieres tener colecciones de gafas en exclusiva, con marcas internacionales y diseños de última tendencia? Un gran equipo de diseñadores expertos en el sector, desarrolla continuamente colecciones exclusivas en gafas de sol, gafas graduadas y monturas, para marcas internacionales como Mango, Custo Barcelona, Pull & Bear o Amichi."
+        },
+        {
+            "phone_number": "(8) 6784734",
+            "name": "OSCAR DE LA RENTA",
+            "web_page": "http://www.oscardelarenta.com",
+            "image": "https://primaveraurbana.co/wp-content/uploads/2018/10/oscardelarenta.jpg",
+            "local_number": "213",
+            "id": 83,
+            "categories": [
+                16
+            ],
+            "description": "Los hombres tienen una nueva opción a la hora de escoger prendas que los hagan ver elegantes con modelos a la moda, se destaca por la calidad, acabados, estilo y textura."
+        },
+        {
+            "phone_number": "(4)2884488 ext 2011",
+            "name": "OXFORD",
+            "web_page": "http://oxfordjeans.com",
+            "image": "https://primaveraurbana.co/wp-content/uploads/2018/11/tienda_Oxford.jpg",
+            "local_number": "147",
+            "id": 84,
+            "categories": [
+                16
+            ],
+            "description": "Oxford está posicionada por realizar su producto en su planta de producción ubicada en Medellin y realiza sus prendas con materiales muy superiores a los habituales del mercado… “Una marca de moda casual, versátil, innovadora y confortable”"
+        },
+        {
+            "phone_number": "3107718097",
+            "name": "PERU SAZÓN",
+            "web_page": "https://www.facebook.com/perusazonsedeprimavera/",
+            "image": "https://primaveraurbana.co/wp-content/uploads/2019/02/interior-Perú-sazón.jpg",
+            "local_number": "336",
+            "id": 85,
+            "categories": [
+                10
+            ],
+            "description": "Ven y disfruta de la mejor gastronomia peruana en compañía de tus familiares y amigos en el local 336."
+        },
+        {
+            "phone_number": "3204538386",
+            "name": "PONTO BRASILEIRO",
+            "web_page": "http://ponto.com.co",
+            "image": "https://primaveraurbana.co/wp-content/uploads/2019/05/Sin-título-1-1.jpg",
+            "local_number": "227",
+            "id": 86,
+            "categories": [
+                2,
+                5
+            ],
+            "description": "Somos una compañía boutique, que ofrece una asesoría personalizada brindando una solución a los problemas capilares de nuestros clientes, comercializando productos selectos de extractos naturales.\r\n\r\nNuestra representación precede a la modalidad de responsabilidad social empresarial la cual está  reflejada en nuestros puntos de venta y oficinas principales, dicha responsabilidad no sólo nos compromete como empresa Eco friendly si no también con nuestros colaboradores ofreciéndoles una labor digna y por ende calidad de vida. \r\n\r\nEl crecimiento de la compañía nos ha llevado a estructurarnos para contribuir con el mejoramiento continuo, razón por la cual nos consolidamos como una empresa líder que se extenderá a nivel nacional por medio de franquicias y puntos de venta propios; siendo referente en distribución, logística, servicio y atención al cliente."
+        },
+        {
+            "phone_number": "3134123184",
+            "name": "POPSY",
+            "web_page": "https://heladospopsycom.dotster.com",
+            "image": "https://primaveraurbana.co/wp-content/uploads/2018/11/tienda_Popsy.jpg",
+            "local_number": "128 A",
+            "id": 87,
+            "categories": [
+                3
+            ],
+            "description": "Somos una empresa colombiana dedicada a generar memorables experiencias y emociones mediante nuestros productos y atención a nuestros clientes. Nos sentimos orgullosos de llevar a cada persona el sabor de la felicidad."
+        },
+        {
+            "phone_number": "(8) 6832899 - Domicilios 6849292",
+            "name": "PRESTO",
+            "web_page": "http://www.presto.com.co",
+            "image": "https://primaveraurbana.co/wp-content/uploads/2018/11/tienda_presto.jpg",
+            "local_number": "350",
+            "id": 88,
+            "categories": [
+                10
+            ],
+            "description": "Tres décadas apostando a la mejor hamburguesa colombiana. ¡Ven y conoce el sabor inigualable que te alegra el día!"
+        },
+        {
+            "phone_number": "3057444056",
+            "name": "PRONTOWASH",
+            "web_page": "http://prontowashinternational.com/colombia.php",
+            "image": "https://primaveraurbana.co/wp-content/uploads/2018/10/prontowash.jpg",
+            "local_number": "SS",
+            "id": 89,
+            "categories": [
+                9
+            ],
+            "description": "ProntoWash es el líder mundial en servicios de lavado de autos. La compañía ha revolucionado el mercado, gracias a su servicio de lavado de automóviles móvil amigable con el medio ambiente."
+        },
+        {
+            "phone_number": "(8) 6740605",
+            "name": "PUNTO BLANCO",
+            "web_page": "http://www.puntoblanco.com.co",
+            "image": "https://primaveraurbana.co/wp-content/uploads/2018/11/tienda_puntoblanco.jpg",
+            "local_number": "208-209",
+            "id": 90,
+            "categories": [
+                11
+            ],
+            "description": "Sensible, equilibrada, natural y contemporánea. Punto Blanco tiene la mejor opción de ropa interior para hombres y mujeres con materiales cómodos y detalles de calidad. También ofrece prendas exteriores para momentos casuales en día, noche y fin de semana con el mejor estilo."
+        },
+        {
+            "phone_number": "(8) 6814915",
+            "name": "QUINTA DEPORTIVA",
+            "web_page": "https://www.facebook.com/Quinta-Deportiva-1134854179933136/",
+            "image": "https://primaveraurbana.co/wp-content/uploads/2018/11/tienda_Quinta-Deportiva.jpg",
+            "local_number": "323",
+            "id": 91,
+            "categories": [
+                4
+            ],
+            "description": "Tienda de árticulos deportivos, coleccionables, hobbies, pesca, defensa personal, campaña, pasatiempos, patinaje profesional, entre otros. Los esperamos en el local 323."
+        },
+        {
+            "phone_number": "(8) 6833898",
+            "name": "REPLAYS",
+            "web_page": "http://www.replays.com.co",
+            "image": "https://primaveraurbana.co/wp-content/uploads/2018/11/replays.jpg",
+            "local_number": "118-119",
+            "id": 92,
+            "categories": [
+                4
+            ],
+            "description": "En Replay’s contamos con gran variedad de calzado, ropa y accesorios, en las marcas más reconocidas del mundo como: Fox,  Adidas Performance y Originals, Le Coq, Converse, Puma, Polo, Merrell, Reebok, Levi’s, New Balance, Nike y Tommy; Variedad de productos para actividades como: performance, outdoors o sencillamente para tu estilo de vida casual."
+        },
+        {
+            "phone_number": "(8) 6470160",
+            "name": "ROPA INTIMA",
+            "web_page": "http://www.ropaymodasintimas.com",
+            "image": "https://primaveraurbana.co/wp-content/uploads/2018/11/tienda_ropaintima.jpg",
+            "local_number": "324",
+            "id": 93,
+            "categories": [
+                11
+            ],
+            "description": "Consigue  Ropa Interior Femenina, lencería a excelentes precios , ven y conoce nuestra tienda local 324."
+        },
+        {
+            "phone_number": "(8) 6833780",
+            "name": "SAMSUNG",
+            "web_page": "http://www.samsung.com/co",
+            "image": "https://primaveraurbana.co/wp-content/uploads/2018/11/tienda_samsung.jpg",
+            "local_number": "135",
+            "id": 94,
+            "categories": [
+                14
+            ],
+            "description": "Dedicamos nuestro recurso humano y tecnológico para crear productos y servicios superiores. Creamos el futuro."
+        },
+        {
+            "phone_number": "(8) 3164949 ext. 1233",
+            "name": "SPOLETO",
+            "web_page": "https://es-la.facebook.com/spoletocolombia",
+            "image": "https://primaveraurbana.co/wp-content/uploads/2018/10/spoleto.jpg",
+            "local_number": "335",
+            "id": 95,
+            "categories": [
+                10
+            ],
+            "description": "Ofrecemos un amplio menú de pastas, lasagnas, risottos, vinos y postres.  Nos caracterizamos por la preparación de pasta al minuto, brindándole al cliente la posibilidad de elegir el tipo de pasta, salsas y toppings que quiere en su plato, mientras observa su preparación."
+        },
+        {
+            "phone_number": "310 2277637",
+            "name": "SPORT IN",
+            "web_page": "http://tiendasportinvillavicencio@sportlife.com.co",
+            "image": "https://primaveraurbana.co/wp-content/uploads/2018/10/sportin.jpg",
+            "local_number": "203",
+            "id": 96,
+            "categories": [
+                4
+            ],
+            "description": "Comercializamos calzado, ropa y accesorios deportivos de marcas reconocidas a nivel mundial generando valor en nuestros clientes, buscando consolidar relaciones duraderas con todos nuestros grupos de interés mediante un trabajo sensato y responsable enfocado en la honestidad y buena comunicación."
+        },
+        {
+            "phone_number": "310 2277637",
+            "name": "SPORT LIFE",
+            "web_page": "http://www.sportlife.com.co",
+            "image": "https://primaveraurbana.co/wp-content/uploads/2018/11/tienda_sportlife.jpg",
+            "local_number": "219-220",
+            "id": 97,
+            "categories": [
+                4
+            ],
+            "description": "Comercializar calzado, ropa y accesorios deportivos de marcas reconocidas a nivel mundial generando valor en nuestros clientes y accionistas, buscando consolidar relaciones duraderas con todos nuestros grupos de interés mediante un trabajo sensato y responsable enfocado en la honestidad y buena comunicación."
+        },
+        {
+            "phone_number": "674 0604",
+            "name": "STF Man",
+            "web_page": "https://www.studiof.com.co/man",
+            "image": "https://primaveraurbana.co/wp-content/uploads/2019/01/stfman.jpg",
+            "local_number": "121",
+            "id": 98,
+            "categories": [
+                16
+            ],
+            "description": "STF MAN está inspirada en los hombres contemporáneos y sofisticados que interpretan la moda y las tendencias de manera Cosmopolitan."
+        },
+        {
+            "phone_number": "674 0604",
+            "name": "STUDIO F",
+            "web_page": "http://www.studiof.com.co",
+            "image": "https://primaveraurbana.co/wp-content/uploads/2018/11/tienda_studiof.jpg",
+            "local_number": "121/123",
+            "id": 99,
+            "categories": [
+                17
+            ],
+            "description": "Studio F es la marca colombiana que aplica las últimas tendencias de la moda en prendas de vestir pensadas especialmente en la silueta de la mujer latina sofisticada y con estilo."
+        },
+        {
+            "phone_number": "(8) 6833808",
+            "name": "SUBWAY",
+            "web_page": "http://www.subwaycolombia.com",
+            "image": "https://primaveraurbana.co/wp-content/uploads/2018/11/tienda_subway.jpg",
+            "local_number": "333",
+            "id": 100,
+            "categories": [
+                10
+            ],
+            "description": "Brindamos una experiencia excepcional, ofreciendo productos saludables de la más alta calidad, en un ambiente agradable y con un servicio de un equipo de trabajo que exceda las expectativas de nuestros clientes."
+        },
+        {
+            "phone_number": "(4)3390000 ext 48156",
+            "name": "TENNIS",
+            "web_page": "http://www.tennis.com.co",
+            "image": "https://primaveraurbana.co/wp-content/uploads/2018/11/tienda_tennis.jpg",
+            "local_number": "223",
+            "id": 101,
+            "categories": [
+                16
+            ],
+            "description": "Tennis S.A es una compañía con más de 37 años de experiencia en el mercado nacional e internacional con sede en Medellín. Nuestros más de 120 puntos de venta propios y franquiciados recrean una filosofía y un estilo de vida joven que evoca originalidad."
+        },
+        {
+            "phone_number": "(8) 6814835",
+            "name": "TOMMY HILFIGER",
+            "web_page": "http://www.tommy.com",
+            "image": "https://primaveraurbana.co/wp-content/uploads/2018/11/tienda_tommyhilfiger.jpg",
+            "local_number": "235-236",
+            "id": 102,
+            "categories": [
+                16
+            ],
+            "description": "Tommy Hilfiger es una de las marcas de diseño de estilo de vida más importantes del mundo y es reconocida internacionalmente por celebrar la esencia del estilo clásico estadounidense, con diseños realmente especiales."
+        },
+        {
+            "phone_number": "(8) 3444660",
+            "name": "TOTTO",
+            "web_page": "http://www.totto.com",
+            "image": "https://primaveraurbana.co/wp-content/uploads/2018/11/tienda_totto.jpg",
+            "local_number": "215",
+            "id": 103,
+            "categories": [
+                8
+            ],
+            "description": "Somos una multinacional de moda líder en Latinoamérica que ofrece la más sofisticada variedad y tecnología en maletines, morrales, mochilas, bolsos, ropa y accesorios."
+        },
+        {
+            "phone_number": "317 3645938",
+            "name": "VELEZ",
+            "web_page": "http://www.velez.com.co",
+            "image": "https://primaveraurbana.co/wp-content/uploads/2018/11/tienda_velez.jpg",
+            "local_number": "109-110-111",
+            "id": 104,
+            "categories": [
+                16
+            ],
+            "description": "Somos amantes del cuero, contamos historias a través de nuestros productos, generamos deseos y emociones intensas para fortalecer nuestro compromiso con la satisfacción y seducción de ustedes, nuestros clientes."
+        }
+    ],
+    "categories": [
+        {
+            "name": "Accesorios",
+            "id": 0
+        },
+        {
+            "name": "Atracciones y entretenimiento",
+            "id": 1
+        },
+        {
+            "name": "Belleza y Salud",
+            "id": 2
+        },
+        {
+            "name": "Cafes, Postres y Helados",
+            "id": 3
+        },
+        {
+            "name": "Deportes",
+            "id": 4
+        },
+        {
+            "name": "Hogar y Regalos",
+            "id": 5
+        },
+        {
+            "name": "Joyerías",
+            "id": 6
+        },
+        {
+            "name": "Lentes y Ópticas",
+            "id": 7
+        },
+        {
+            "name": "Maletas y Bolsos",
+            "id": 8
+        },
+        {
+            "name": "Otros Servicios",
+            "id": 9
+        },
+        {
+            "name": "Restaurantes",
+            "id": 10
+        },
+        {
+            "name": "Ropa interior y Trajes de baño",
+            "id": 11
+        },
+        {
+            "name": "Servicios Financieros",
+            "id": 12
+        },
+        {
+            "name": "Servicios Odontológicos",
+            "id": 13
+        },
+        {
+            "name": "Tecnología",
+            "id": 14
+        },
+        {
+            "name": "Tienda por departamento",
+            "id": 15
+        },
+        {
+            "name": "Vestuario Hombre",
+            "id": 16
+        },
+        {
+            "name": "Vestuario Mujer",
+            "id": 17
+        },
+        {
+            "name": "Vestuario Niños",
+            "id": 18
+        },
+        {
+            "name": "Zapatos",
+            "id": 19
+        }
+    ]
+}
